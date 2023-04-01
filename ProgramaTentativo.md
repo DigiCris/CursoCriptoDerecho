@@ -11,6 +11,15 @@ Comenzando Lu 10/4/2023 18:30
 
 Puede estar sujeto a supresión/adhisión de temas según interés del publico. Por eso dejo una semana antes de comenzarlo y que me digan si necesitan alguna otra cosa más de lo que puse.
 
+Para proponer algo escribirlo en el siguiente form:
+
+[Form](https://docs.google.com/forms/d/e/1FAIpQLSdCyMS24no_P_pWYdwQnqFgHnAfGRpPkaJ2YKbJy4ZhEbL8Jg/viewform?usp=sf_link)
+
+o puede copiar y pegar la siguiente URL:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdCyMS24no_P_pWYdwQnqFgHnAfGRpPkaJ2YKbJy4ZhEbL8Jg/viewform?usp=sf_link
+
+
 ### Conceptos Informáticos (1hs 40')
 1. **Sistemas Numericos**: Decimal, Binario, Hexadecimal (5')
 2. **Matemáticas**: Logica, funciones. (2')
