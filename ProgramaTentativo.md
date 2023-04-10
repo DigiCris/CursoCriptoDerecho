@@ -2,10 +2,21 @@
 
 Tiempo estimado: 10hs
 
-1. **Propuesta 1**: 5 clases de 2hs.
-2. **Propuesta 2**: 7 clases de 1:30 hs.
+1. **Propuesta 2**: 7 clases de 1:30 hs.
 
 Comenzando Lu 10/4/2023 18:30
+
+## Ingreso a la reunion
+
+Para unirte a la videoconferencia, haz clic en este vínculo: meet.google.com/wfb-vxes-kru
+
+Para unirte por teléfono, marca (AR) +54 11 3986-3700 y escribe este PIN: 536 415 093 4597#
+
+Más números de teléfono: https://tel.meet/wfb-vxes-kru?pin=5364150934597
+
+## Actividades
+
+https://cursoblockchain.com.ar/
 
 ## Temario Propuesto
 
