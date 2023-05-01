@@ -6,6 +6,10 @@ Tiempo estimado: 10hs
 
 Comenzando Lu 10/4/2023 18:30
 
+## Propuesta de cambio de horarios
+
+https://docs.google.com/forms/d/e/1FAIpQLSdAAr6SWZH5JlbCwnaWrvu_muGLyiTOqfMonq5Y2ARKt76Cyw/viewform?usp=sf_link
+
 ## Ingreso a la reunion
 
 Para unirte a la videoconferencia, haz clic en este vínculo: meet.google.com/wfb-vxes-kru
